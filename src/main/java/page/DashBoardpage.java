@@ -104,8 +104,4 @@ public class DashBoardpage extends basepage {
 	public void Settings_Element() {
 		Settings_Locator.click();
 	}
-	
-	public String getPageTitle() {
-		return driver.getTitle();
-	}
 }

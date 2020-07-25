@@ -1,4 +1,3 @@
- @smoke 
  Feature: As a user I want a login page so that only authentic 
      users will be able to login
          
