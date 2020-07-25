@@ -1,0 +1,8 @@
+page/CustomerPage.class
+page/ExcelReader.class
+page/Loginpage.class
+util/browser.class
+page/NewDepositPage.class
+page/DashBoardpage.class
+util/Assertion.class
+page/basepage.class

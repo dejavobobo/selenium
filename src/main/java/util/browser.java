@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class browser {
 	static WebDriver driver;
 	public static WebDriver startBrowser() {
-		 System.setProperty("webdriver.chrome.driver",".\\driver\\chromedriver.exe");
+		 System.setProperty("webdriver.chrome.driver","./driver/chromedriver");
 		 driver=new ChromeDriver();
 		 		driver.manage().deleteAllCookies();
 		 driver.manage().window().maximize();
